@@ -95,7 +95,10 @@ input, select, textarea {
 	}
 
 	body {
-		background: #1b1f22;
+		background-image: url(https://www.siliconera.com/wp-content/uploads/2025/04/gawr-gura-announced-shell-make-an-important-announcement-today-and-past-hololive-vtuber-graduation-notices-used-that-phrasing.jpg?fit=1200%2C675);
+	    	background-size: cover;
+	    	background-position: center;
+	    	height: 100vh;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
